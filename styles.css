@@ -542,7 +542,11 @@ text-align: left;
 
 @media screen and (max-width: 600px) {
     * {
-        font-size: 2.1vw;
+        font-size: 2.4vw;
+    }
+
+    .copyright{
+        width: 100%;
     }
 
     h1{
@@ -652,7 +656,7 @@ text-align: left;
 @media screen and (max-width: 430px){
 
 * {
-        font-size: 3.2vw;
+        font-size: 3.9vw;
     }
 
     h1 {
@@ -766,7 +770,7 @@ background-image: url('assets/man-5-transparent.png');
 @media screen and (max-width: 350px) {
 
 * {
-        font-size: 3.5vw;
+        font-size: 4vw;
     }
 
     h1 {
